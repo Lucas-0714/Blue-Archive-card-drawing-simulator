@@ -3,8 +3,12 @@
 
 # 代碼分析
   ```
-  
+  def displayimage(link, delay):
+    # exchange by display(Image(url=link))
+    display(HTML(f'<img src="{link}" alt="animation" width="300px">'))
+    time.sleep(delay)
   ```
+  定義displayimage(link, delay)函式，並要求輸入連結與延遲，透過HTML
 
 # 開啟方式
   透過Google Colab開啟：
