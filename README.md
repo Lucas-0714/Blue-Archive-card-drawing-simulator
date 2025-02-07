@@ -1,5 +1,5 @@
 # 蔚藍檔案抽卡模擬器
-  本模擬器由@Lucas-0714以Python(JupyterNotebook)編寫而成，故可以於Google Colab中開啟（詳見開啟方式）
+  本模擬器由@Lucas-0714以Python(JupyterNotebook)編寫而成，故可以於Google Colab中開啟（詳見[開啟方式](https://github.com/Lucas-0714/Blue-Archive-card-drawing-simulator/blob/main/README.md#開啟方式)）
 
 # 代碼分析
   ```
