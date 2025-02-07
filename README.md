@@ -20,9 +20,16 @@
   ```
   定義run()函式，函式的內容在於顯示一連串的照片（類似逐格動畫），先顯示一張照片，然後用clear_output[^3]模組清除輸出，進而達到
 
-  [^1]: 使用HTML和display模組
-        ```
+  [^1]: ```
         from IPython.display import HTML, display
+        ```
+        
+  [^2]: ```
+        import time
+        ```
+        
+  [^3]: ```
+        from IPython.display import clear_output
         ```
 
 # 開啟方式
