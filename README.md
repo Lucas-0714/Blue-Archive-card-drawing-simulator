@@ -8,7 +8,22 @@
     display(HTML(f'<img src="{link}" alt="animation" width="300px">'))
     time.sleep(delay)
   ```
-  定義displayimage(link, delay)函式，並要求輸入連結與延遲，透過HTML
+  定義displayimage(link, delay)函式，並要求輸入連結與延遲，透過HTML[^1]文本簡易的輸出圖片，再透過time[^2]模組執行{delay}秒的延遲。
+
+  ```
+  def run():
+    displayimage("https://i.imgur.com/Y2aak8Y.jpeg", 0.3)
+    clear_output()
+    displayimage("https://i.imgur.com/BPLJ8fD.jpeg", 0.3)
+    clear_output()
+    ...
+  ```
+  定義run()函式，函式的內容在於顯示一連串的照片（類似逐格動畫），先顯示一張照片，然後用clear_output
+
+  [^1]: 使用HTML和display模組
+        ```
+        from IPython.display import HTML, display
+        ```
 
 # 開啟方式
   透過Google Colab開啟：<br>
