@@ -11,10 +11,8 @@
   定義displayimage(link, delay)函式，並要求輸入連結與延遲，透過HTML
 
 # 開啟方式
-  透過Google Colab開啟：
-  
-  連結：
-    https://colab.research.google.com/github/Lucas-0714/Blue-Archive-card-drawing-simulator/blob/main/Blue_Archive.ipynb
+  透過Google Colab開啟：<br>
+  連結：[colab.resaerch.google.com](https://colab.research.google.com/github/Lucas-0714/Blue-Archive-card-drawing-simulator/blob/main/Blue_Archive.ipynb)
   
   透過檔案中Colab標誌連結
   
