@@ -1,1 +1,1 @@
-# Blue-Archive-card-drawing-simulator
+# 蔚藍檔案抽卡模擬器
