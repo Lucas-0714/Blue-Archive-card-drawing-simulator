@@ -31,4 +31,5 @@
   連結：[colab.resaerch.google.com](https://colab.research.google.com/github/Lucas-0714/Blue-Archive-card-drawing-simulator/blob/main/Blue_Archive.ipynb)
   
   透過檔案中Colab標誌連結
+  ![GitHub -> Colab button](https://i.imgur.com/SKDMjwM.jpeg)
   
