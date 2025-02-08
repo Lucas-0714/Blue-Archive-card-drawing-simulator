@@ -22,12 +22,10 @@
 
   [^1]: ```
         from IPython.display import HTML, display
-        
   [^2]: ```
         import time
   [^3]: ```
         from IPython.display import clear_output
-
 # 開啟方式
   透過Google Colab開啟：<br>
   連結：[colab.resaerch.google.com](https://colab.research.google.com/github/Lucas-0714/Blue-Archive-card-drawing-simulator/blob/main/Blue_Archive.ipynb)
