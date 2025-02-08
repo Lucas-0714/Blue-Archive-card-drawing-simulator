@@ -22,7 +22,7 @@
 
   [^1]: ```
         from IPython.display import HTML, display
-        ```
+        
         
   [^2]: ```
         import time
