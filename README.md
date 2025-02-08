@@ -23,14 +23,10 @@
   [^1]: ```
         from IPython.display import HTML, display
         
-        
   [^2]: ```
         import time
-        ```
-        
   [^3]: ```
         from IPython.display import clear_output
-        ```
 
 # 開啟方式
   透過Google Colab開啟：<br>
